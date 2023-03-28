@@ -184,7 +184,7 @@ a:hover{
     row-gap: 50px;
     margin-top: 30px;
 }
-.card1, .card4{
+/* .card1, .card4{
     justify-self: end;
 }
 .card2,.card5{
@@ -192,7 +192,7 @@ a:hover{
 }
 .card3,.card6{
     justify-self:start;
-}
+} */
 .card h2{
     color: #183B56;
 }
